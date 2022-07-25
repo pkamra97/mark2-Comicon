@@ -7,7 +7,7 @@
   * 1st level has 6 ques
   * 2nd level and 3rd level have 3 ques each
 
-> Your final score will decide how much a nerd you're about MCU
+> Your final score will decide how much you know about MCU
 
 ![comiconQuiz](https://img.freepik.com/premium-vector/quiz-comic-pop-art-style_175838-505.jpg?w=2000)
 
