@@ -9,8 +9,6 @@
 
 > Your final score will decide how much you know about MCU
 
-![comiconQuiz](https://img.freepik.com/premium-vector/quiz-comic-pop-art-style_175838-505.jpg?w=2000)
-
 # **[Click here to begin with Comicon][linkvar]**  
 
 [linkvar]:https://replit.com/@prateekkamra1/mark2marvel#index.js
